@@ -21,8 +21,8 @@ Lending Club Case Study
 4. CONCLUSION
 5. REFERENCES
 6. APPENDIX
-    Additional insights –univariate analysis
-    Additional insights –Understanding default behaviour
+    - Additional insights –univariate analysis
+    - Additional insights –Understanding default behaviour
       • Bivariate and Multivariateanalysis
       •Interdependence of variables
  
