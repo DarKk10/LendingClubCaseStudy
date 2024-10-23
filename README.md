@@ -77,7 +77,7 @@ Objective of the Analysis
 
 ## Contact
 Created by [@DarKk10] - feel free to contact me!
-Submmited by Pratham Desai and Prashant Saxena
+- Submmited by Pratham Desai and Prashant Saxena
 
 
 <!-- Optional -->
