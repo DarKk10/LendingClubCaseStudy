@@ -4,8 +4,8 @@ Lending Club Case Study
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -24,6 +24,25 @@ Objective of the Analysis
   - Also understand the interrelationship between variables that impact default behaviour
   - To identify the key drivers impacting the recoveries from defaulted loans
   - To prioritize the drivers in terms of their impact, and suggest ways to assess loan application to maximize business profitability
+
+## Approach
+- **Data Cleaning**
+    - **Outlier treatment** - Identify and treat outliers by calculating IQR (Q3-Q1), then remove data points outside 1.5 * IQR from Q1 and Q3
+    - **Data conversion** – ‘%’ symbol is removed from variables such as ‘int_rate’ and ‘revol_util’ columns to treat them as float
+- To understand the default behaviour, only closed loans are analyzed - 'Charged Off’ and 'Fully Paid’ loans
+    - ‘Current’ loans are excluded because their default status cannot be determined yet.
+- **Derived metrics** such as default rate and recovery rate are calculated to understand their relationship with other variables
+- **Default rate** has been calculated as ‘Charged Off’ loans as percentage of total closed loans
+- **Default rate** has been calculated in terms of both:
+    - Count of loans defaulted
+    - Amount of loans defaulted
+- **Recovery Rate** has been calculated as ‘recoveries’ as percentage of defaulted amount
+    - Defaulted amount is considered as ‘loan_amnt’ minus ‘total_rec_prncp’, which denotes the principal amount that has been charged off
+- **Univariate, Bivariate and Multivariate analysis** analysis is performed to explain relationship among variables
+    - **Interdependency of variables** is also analyzed avoid any misleading conclusion regarding any variable driving default rate
+- **Correlation and Regression** techniques have been applied to establish relationship among variables
+
+
  
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
