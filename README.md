@@ -11,25 +11,6 @@ Lending Club Case Study
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-1. EXECUTIVESUMMARY
-    Problem statement
-    Objective of the analysis
-    Recommendationsfor the business
-2. METHODOLOGY
-3. KEY FINDINGS
-    – Findings of univariate,bivariate and multivariate analysis
-4. CONCLUSION
-5. REFERENCES
-6. APPENDIX
-    - Additional insights –univariate analysis
-    - Additional insights –Understanding default behaviour
-      • Bivariate and Multivariateanalysis
-      •Interdependence of variables
- 
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
 Executive Summary
   Problem Statement
     - The Consumer Finance Company specializes in lending various types of loans to urban customers
@@ -43,8 +24,12 @@ Objective of the Analysis
   - Also understand the interrelationship between variables that impact default behaviour
   - To identify the key drivers impacting the recoveries from defaulted loans
   - To prioritize the drivers in terms of their impact, and suggest ways to assess loan application to maximize business profitability
+ 
 
-Recommendations for the Business
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Conclusions
+
   - Caution must be exercised in granting lower grade loans, especially graded ‘D’ and below, which experience more than 20% default rate
   - Additional measures such as physical verification, income documentation, etc should be taken for such loans
   - Loans graded ‘D’ and below should be charged even higher interest rates to compensate for substantially higher chances of default
