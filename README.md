@@ -17,7 +17,7 @@ Lending Club Case Study
     Recommendationsfor the business
 2. METHODOLOGY
 3. KEY FINDINGS
-    –Findingsofunivariate,bivariateandmultivariate analysis
+    – Findingsofunivariate,bivariateandmultivariate analysis
 4. CONCLUSION
 5. REFERENCES
 6. APPENDIX
