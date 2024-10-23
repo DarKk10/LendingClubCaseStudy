@@ -63,11 +63,11 @@ Recommendations for the Business
 
 
 ## Technologies Used
- 1 Python 3.13 
- 2 Matplotlib 3.9.2
- 3 Numpy 2.1.2
- 4 Pandas 2.2.3
- 5 Seaborn 0.13.2
+  Python 3.13 
+  - Matplotlib 3.9.2
+  - Numpy 2.1.2
+  - Pandas 2.2.3
+  - Seaborn 0.13.2
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
