@@ -12,7 +12,8 @@ Lending Club Case Study
 
 ## General Information
 Executive Summary
-  Problem Statement
+    
+     Problem Statement
     - The Consumer Finance Company specializes in lending various types of loans to urban customers
     - When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile
     - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
